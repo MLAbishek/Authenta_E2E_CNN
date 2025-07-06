@@ -1,0 +1,13 @@
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.npz
+*.npy
+*.jpg
+*.jpeg
+*.png
+*.bmp
+/my_custom_coco_data/
+/outputs/
+/logs/
