@@ -103,8 +103,8 @@ def train_model(train_dir, val_dir, epochs=10, batch_size=4, learning_rate=0.001
 # Example usage
 if __name__ == "__main__":
     # Update these paths to your data
-    TRAIN_DIR = r"D:\newresearche2e\Data\train"  # Should contain 'original' and 'duplicate' folders
-    VAL_DIR = r"D:\newresearche2e\Data\test"  # Should contain 'original' and 'duplicate' folders
+    TRAIN_DIR = r"D:\Data\train"  # Should contain 'original' and 'duplicate' folders
+    VAL_DIR = r"D:\Data\test"  # Should contain 'original' and 'duplicate' folders
 
     # Expected folder structure:
     # train/
